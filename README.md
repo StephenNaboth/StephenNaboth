@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StephenNaboth
-- 👀 I’m interested in machine learning and Mathematics
-- 🌱 I’m currently learning Mathematical modelling
-- 💞️ I’m looking to collaborate on Data Analysis, web development, Machine learning and Mathematical Optimization
+- 👀 I’m interested in Mathematical analysis, modelling and simulation.
+- 🌱 I’m a graduate in  Msc. Mathematical modelling in Engineering
+- 💞️ I’m looking to collaborate on Data Science, Machine learning and Mathematical modelling
 - 📫 How to reach me stephennkya33@gmail.com
 - My personal website [Click Here](https://stephennaboth.github.io)
 <!---
