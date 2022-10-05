@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/726/1*0t-yjUci3dMx9zfIlVorhQ.png)](https://stephennaboth.github.io)
+[![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*2G4GdnBQW5bcjJx4rSuZxg.gif)](https://stephennaboth.github.io)
 <h1 align="center">Hi 👋, I'm Stephen Naboth</h1>
 <h3 align="center">A passionate mathematician in Mathematical analysis, modelling and simulation.</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/citBl9yPwnUOs/giphy.gif?cid=790b7611ebd325baab2e9820f3ce950a908779d9c89cb469&rid=giphy.gif&ct=g">
