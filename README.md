@@ -4,19 +4,19 @@
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/citBl9yPwnUOs/giphy.gif?cid=790b7611ebd325baab2e9820f3ce950a908779d9c89cb469&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephennaboth&label=Profile%20views&color=0e75b6&style=flat" alt="stephennaboth" /> </p>
 
-- 🔭 I’m currently working on **Deep Learning and quantum computing**
+- 🔭 I’m currently working on **NUmerical analysis, Deep Learning and quantum computing**
 
-- 🌱 I’m currently learning **Quantum Computing, Deep Learning and Financial mathematics**
+- 🌱 I’m currently learning **Quantum Computing, Deep Learning and Numerical analysis**
 
-- 👯 I’m looking to collaborate on **Mathematics, Cry and AI**
+- 👯 I’m looking to collaborate on **Mathematics and AI**
 
-- 🤝 I’m looking for help with **AI and Cryptography**
+- 🤝 I’m looking for help with **Computational Mathematics, AI and Cryptography**
 
 - 👨‍💻 All of my projects are available at [https://github.com/StephenNaboth?tab=repositories](https://github.com/StephenNaboth?tab=repositories)
 
 - 📝 Portfolio Website [https://stephennaboth.github.io](https://stephennaboth.github.io)
 
-- 💬 Ask me about **Mathematics, Geopolitics and science**
+- 💬 Ask me about **Mathematics, Geopolitics and Football**
 
 - 📫 How to reach me **stephennaboth@gmail.com**
 
