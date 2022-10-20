@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working and learning on **Numerical analysis, Deep Learning and quantum computing**
 
-- 🌱 I’m currently learning **Quantum Computing, Deep Learning and Numerical analysis**
-
 - 👯 I’m looking to collaborate on **Mathematics and Machine Learning**
 
 - 🤝 I’m looking for help with **Computational Mathematics, AI and Cryptography**
