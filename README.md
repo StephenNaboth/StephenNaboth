@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/citBl9yPwnUOs/giphy.gif?cid=790b7611ebd325baab2e9820f3ce950a908779d9c89cb469&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephennaboth&label=Profile%20views&color=0e75b6&style=flat" alt="stephennaboth" /> </p>
 
-- 🔭 I’m currently working and learning on **Numerical analysis, Deep Learning and quantum computing**
+- 🔭 I’m currently working and learning on **Applied Mathematics, Deep Learning and quantum computing**
 
-- 👯 I’m looking to collaborate on **Mathematics and Machine Learning**
+- 👯 I’m looking to collaborate on **Numerical Mathematics, Modelling and Machine Learning**
 
-- 🤝 I’m looking for help with **Computational Mathematics, AI and Cryptography**
+- 🤝 I’m looking for help and improvement with **Computational Mathematics, AI and Optimization**
 
 - 👨‍💻 All of my projects are available at [https://github.com/StephenNaboth?tab=repositories](https://github.com/StephenNaboth?tab=repositories)
 
@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://stephennaboth.github.io/assets/files/Stephen_Naboth_CV.pdf](https://stephennaboth.github.io/assets/files/Stephen_Naboth_CV.pdf)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think and tell myself am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
